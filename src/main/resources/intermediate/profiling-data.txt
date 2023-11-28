@@ -1,0 +1,100 @@
+Judy  Barker, Great Expectations, Wuthering Heights
+Karen  Wilkerson, Bostan, Hamlet, The Idiot, Lolita, The Stranger
+Taylor  Phelps, The Possessed, The Brothers Karamazov, Middlemarch, Beloved
+Toni  Wright, Middlemarch, Bostan, Hamlet, Ulysses, Pedro Páramo, Madame Bovary, To the Lighthouse, The Old Man and the Sea, The Golden Notebook
+Orlando  Webster, Leaves of Grass, The Tin Drum, Madame Bovary
+Enrique  Rios, The Man Without Qualities, Poems, Othello, One Thousand and One Nights, The Stranger
+Dustin  Daniel, King Lear, Tristram Shandy, Pippi Longstocking
+Camille  Bass, The Tin Drum, Tristram Shandy
+Damon  Farmer, The Brothers Karamazov, Faust
+Frankie  Nelson, Metamorphoses, Great Expectations, Hunger, Crime and Punishment
+Eloise  Martin, Confessions of Zeno, Metamorphoses, Mahabharata, Stories
+Dianna  Perkins, The Brothers Karamazov, The Magic Mountain, Beloved, Pedro Páramo, Midnight's Children, History, Pippi Longstocking, The Man Without Qualities, The Tale of Genji, Buddenbrooks
+Bertha  Allen, The Canterbury Tales, Fairy tales, Love in the Time of Cholera, King Lear, Children of Gebelawi, Sentimental Education, The Possessed, Aeneid
+Tina  Silva, The Canterbury Tales, The Old Man and the Sea, Aeneid, Poems, The Devil to Pay in the Backlands, History, Zorba the Greek, Molloy, Malone Dies, The Unnamable, a trilogy
+Vernon  Palmer, The Castle, The Trial, The Divine Comedy, Iliad, Moby-Dick
+Janie  Sanders, The Devil to Pay in the Backlands, The Canterbury Tales, A Doll's House, In Search of Lost Time, Mahabharata, Ulysses
+Abraham  Kennedy, The Idiot, Great Expectations, Masnavi, Ramayana, The Man Without Qualities, Gypsy Ballads, Don Quixote, The Sound and the Fury, Book of Job, Invisible Man
+Julie  Bryant, The Sound of the Mountain, Children of Gebelawi, A Doll's House
+Frederick  Roberson, The Tin Drum, Season of Migration to the North, Children of Gebelawi
+Raquel  Miles, Ficciones, Pippi Longstocking, Hamlet, The Divine Comedy, Book of Job, A Doll's House
+Melissa  Lawson, Oedipus the King, Absalom, Absalom!, Hunger, A Doll's House, The Canterbury Tales, Nostromo, The Devil to Pay in the Backlands, Poems, The Castle
+Marshall  Greer, Stories, A Doll's House, Leaves of Grass, Anna Karenina, Love in the Time of Cholera, Children of Gebelawi, Shakuntala, Great Expectations
+Jana  Meyer, Odyssey, Tristram Shandy, The Idiot, Don Quixote, Invisible Man, Faust
+Guadalupe  Hale, Ramayana, Zorba the Greek, A Madman's Diary, The Idiot
+Wesley  Pittman, The Book of Disquiet, Njál's Saga, To the Lighthouse, Tales, Fairy tales
+Tracy  Anderson, Nineteen Eighty-Four, A Madman's Diary, The Magic Mountain, Pride and Prejudice, Aeneid, Beloved, Mrs Dalloway, In Search of Lost Time, Ficciones, Le Père Goriot
+Geoffrey  Schwartz, Faust, Buddenbrooks, Ficciones, Pedro Páramo
+Jackie  Oliver, Masnavi, History, Pedro Páramo, In Search of Lost Time, The Divine Comedy, Anna Karenina, A Doll's House, Stories
+Margarita  Cohen, The Possessed, Adventures of Huckleberry Finn, Zorba the Greek, A Madman's Diary, The Golden Notebook, The Man Without Qualities, King Lear, Odyssey, The Magic Mountain
+Jorge  Marsh, One Hundred Years of Solitude, Nineteen Eighty-Four, Tales, Independent People, Nostromo, Mrs Dalloway, The Possessed, Tristram Shandy, Gypsy Ballads, Ulysses
+Lorena  Valdez, The Devil to Pay in the Backlands, Crime and Punishment, The Stranger, Book of Job, Midnight's Children, Beloved, The Decameron, Adventures of Huckleberry Finn
+Arnold  Shaw, Crime and Punishment, Lolita, Hunger, Pride and Prejudice, Absalom, Absalom!, King Lear
+Della  Cook, Essays, The Castle, Moby-Dick
+Samantha  Fernandez, Gypsy Ballads, The Red and the Black
+Yvonne  Barton, The Tin Drum, Buddenbrooks, The Stranger, Jacques the Fatalist, Oedipus the King, The Trial
+Courtney  Robbins, The Castle, Medea, Dead Souls, The Death of Ivan Ilyich, Hunger, A Doll's House
+Alex  Jennings, Confessions of Zeno, Poems, Wuthering Heights, The Brothers Karamazov
+Lawrence  Curry, To the Lighthouse, Le Père Goriot, Metamorphoses, The Decameron, Bostan, Ramayana, Epic of Gilgamesh, The Trial, Hunger, Crime and Punishment
+Jessie  Moody, Children of Gebelawi, Mrs Dalloway, Tales
+Josefina  Graham, Don Quixote, Njál's Saga, Middlemarch, Nineteen Eighty-Four, Metamorphoses
+Monique  Page, Buddenbrooks, Ulysses, Book of Job, The Golden Notebook, The Brothers Karamazov
+Kerry  Alvarado, Absalom, Absalom!, King Lear, Essays, Le Père Goriot
+Rosalie  Hernandez, Metamorphoses, Nineteen Eighty-Four, The Brothers Karamazov, In Search of Lost Time, Pippi Longstocking
+Curtis  Poole, Medea, Essays, History, The Canterbury Tales, Othello, Shakuntala, Jacques the Fatalist, Mrs Dalloway, Gypsy Ballads, The Divine Comedy
+Greg  Craig, Iliad, Book of Job
+Myrtle  Mcdonald, War and Peace, Nostromo, Madame Bovary, The Possessed, Essays, In Search of Lost Time
+Olivia  Patterson, The Canterbury Tales, The Decameron, The Death of Ivan Ilyich, Medea, One Thousand and One Nights, Aeneid, Children of Gebelawi, Berlin Alexanderplatz
+Allison  Bailey, Epic of Gilgamesh, Pride and Prejudice, Berlin Alexanderplatz, Shakuntala, Odyssey, Invisible Man, One Thousand and One Nights
+Leah  Cannon, Children of Gebelawi, Mrs Dalloway, The Golden Notebook, Leaves of Grass, Ficciones, The Devil to Pay in the Backlands, In Search of Lost Time, Nineteen Eighty-Four
+Luz  Pena, Things Fall Apart, Sentimental Education, Stories, Pride and Prejudice, The Golden Notebook, Absalom, Absalom!, The Canterbury Tales, One Thousand and One Nights
+Arlene  Schultz, The Idiot, The Tale of Genji, Book of Job
+Max  Cunningham, Gypsy Ballads, Nineteen Eighty-Four, Invisible Man, The Life of Gargantua and of Pantagruel, The Brothers Karamazov, The Old Man and the Sea, Buddenbrooks, Masnavi, The Tale of Genji
+Jennie  Moore, The Golden Notebook, Nineteen Eighty-Four, Poems, Njál's Saga, Metamorphoses
+Danielle  Adkins, The Trial, The Book of Disquiet, The Magic Mountain, Zorba the Greek, Love in the Time of Cholera, Don Quixote
+Lena  Robinson, Wuthering Heights, Essays, Midnight's Children, Blindness
+Devin  Mason, The Old Man and the Sea, Shakuntala, Middlemarch, Epic of Gilgamesh, One Hundred Years of Solitude
+Terry  Flores, Faust, Midnight's Children, The Stranger, The Tin Drum, Leaves of Grass, Shakuntala
+Wilbur  Walters, Pippi Longstocking, A Doll's House, Essays
+Roberta  Little, Moby-Dick, A Doll's House, Buddenbrooks, The Death of Ivan Ilyich, Bostan, Aeneid, The Devil to Pay in the Backlands, History, To the Lighthouse, Metamorphoses
+Otis  Rice, Sons and Lovers, Confessions of Zeno, Othello, Tristram Shandy, The Devil to Pay in the Backlands, Poems, The Decameron, Pedro Páramo, Madame Bovary
+Lauren  Flowers, The Divine Comedy, Buddenbrooks, Adventures of Huckleberry Finn, Sons and Lovers, The Idiot, Hamlet, Othello
+Dean  Nunez, Nostromo, Faust, Njál's Saga, Absalom, Absalom!, Crime and Punishment
+Robin  Burns, History, War and Peace
+Lee  Hammond, Madame Bovary, The Red and the Black, Blindness, To the Lighthouse, A Doll's House, Aeneid, Fairy tales, Le Père Goriot, Gulliver's Travels
+Dolores  Tucker, The Old Man and the Sea, Poems, Ficciones
+Jenna  Collier, The Old Man and the Sea, Leaves of Grass, Children of Gebelawi, Gypsy Ballads, Sons and Lovers, Pedro Páramo, Tristram Shandy, Aeneid, Midnight's Children
+Tiffany  Abbott, One Thousand and One Nights, Mahabharata, Absalom, Absalom!, Madame Bovary, The Sound of the Mountain
+Matthew  West, History, A Doll's House, Mahabharata, A Madman's Diary
+Kelly  Reyes, Faust, Children of Gebelawi, The Stranger, Oedipus the King, King Lear, Poems, The Devil to Pay in the Backlands, Bostan
+Jeremiah  Mendez, Wuthering Heights, The Stranger, Masnavi
+Alton  Clark, Journey to the End of the Night, Absalom, Absalom!, Zorba the Greek, Book of Job, Leaves of Grass
+Elvira  Porter, Fairy tales, Njál's Saga, Buddenbrooks, The Sound and the Fury, Leaves of Grass, The Decameron, Poems, To the Lighthouse, Hamlet
+Alice  Burgess, To the Lighthouse, One Thousand and One Nights, The Old Man and the Sea, Blindness, The Sound of the Mountain, Poems, Nineteen Eighty-Four
+Karl  Fox, Shakuntala, The Divine Comedy, The Old Man and the Sea, Epic of Gilgamesh, Metamorphoses, Ulysses, Dead Souls
+Mary  Bridges, Madame Bovary, Aeneid, The Trial, Metamorphoses, Epic of Gilgamesh, Lolita, Le Père Goriot, Stories, Pippi Longstocking
+Julian  Gill, Crime and Punishment, Mrs Dalloway, Masnavi, Mahabharata, Confessions of Zeno, Blindness
+Neal  Graves, Poems, Independent People, Great Expectations, Crime and Punishment, One Thousand and One Nights, The Possessed, Don Quixote
+Samuel  Chapman, The Brothers Karamazov, Blindness, Dead Souls, Season of Migration to the North, Confessions of Zeno, Leaves of Grass, The Tale of Genji, Pippi Longstocking
+Jacquelyn  Hill, The Old Man and the Sea, The Book of Disquiet, Midnight's Children, Masnavi, Iliad
+Johnny  Jacobs, The Sound of the Mountain, Adventures of Huckleberry Finn, Odyssey, The Sound and the Fury, The Trial, Mahabharata, Sentimental Education, Aeneid, Tales, Beloved
+Byron  Lloyd, Hunger, Invisible Man, Anna Karenina, The Death of Ivan Ilyich, Tristram Shandy, Jacques the Fatalist, Iliad
+Jerry  Mitchell, Lolita, Odyssey, Tristram Shandy, Faust, The Tin Drum, Jacques the Fatalist, Stories, Le Père Goriot, The Old Man and the Sea
+Nancy  Yates, Absalom, Absalom!, The Tin Drum, The Sound and the Fury, The Devil to Pay in the Backlands, Gypsy Ballads, Molloy, Malone Dies, The Unnamable, a trilogy, Othello, One Hundred Years of Solitude, Poems, Gulliver's Travels
+Margie  Bell, To the Lighthouse, The Devil to Pay in the Backlands, Gypsy Ballads, Metamorphoses, Crime and Punishment, Epic of Gilgamesh
+Claire  Scott, Crime and Punishment, Faust, Molloy, Malone Dies, The Unnamable, a trilogy, Nostromo, Independent People, The Book of Disquiet
+Francisco  Hansen, The Stranger, Stories, Invisible Man, Madame Bovary, Jacques the Fatalist
+Antonia  Bates, Pippi Longstocking, Confessions of Zeno, Don Quixote, Dead Souls, History, Anna Karenina, Nostromo, Hunger, A Doll's House, The Golden Notebook
+Maryann  Townsend, Jacques the Fatalist, Middlemarch, Things Fall Apart
+Marcella  French, Buddenbrooks, Adventures of Huckleberry Finn, Gulliver's Travels
+Sean  Pierce, Season of Migration to the North, The Tin Drum, Absalom, Absalom!, Sons and Lovers
+Shirley  Watkins, Iliad, Buddenbrooks, Pippi Longstocking, Love in the Time of Cholera, The Death of Ivan Ilyich
+Elmer  Hanson, Pedro Páramo, Medea, The Sound and the Fury, A Madman's Diary, Masnavi
+Clifton  Snyder, Blindness, Othello, The Canterbury Tales, The Death of Ivan Ilyich, Independent People, The Tin Drum, The Divine Comedy, The Possessed
+Roberto  Manning, The Tale of Genji, Blindness, The Canterbury Tales, Adventures of Huckleberry Finn, Buddenbrooks, Medea, Crime and Punishment, Nostromo
+Glenda  Malone, Faust, Crime and Punishment, The Golden Notebook, Zorba the Greek, Pedro Páramo, The Idiot
+Marjorie  Parker, Iliad, Gulliver's Travels, Berlin Alexanderplatz, Zorba the Greek, Mahabharata, Jacques the Fatalist, Crime and Punishment, The Idiot
+Amanda  Rodgers, Medea, Essays, The Decameron, Iliad, Othello
+Shawna  Curtis, Ramayana, Poems, Wuthering Heights, The Red and the Black, The Man Without Qualities, Dead Souls, Don Quixote
+Vanessa  Banks, Fairy tales, Stories, Pride and Prejudice, The Divine Comedy, Masnavi, The Decameron
+Clinton  Perez, To the Lighthouse, Wuthering Heights, The Possessed, Poems, Great Expectations
